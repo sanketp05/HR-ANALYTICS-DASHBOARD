@@ -1,2 +1,2 @@
 # HR ANALYTICS DASHBOARD
-HR Analytics Dashboard in tableau
+Begginer Level HR Analytics Dashboard Created in tableau.
