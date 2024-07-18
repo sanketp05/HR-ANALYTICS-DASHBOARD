@@ -1,2 +1,2 @@
-# HR-ANALYTICS-DASHBOARD
+# HR ANALYTICS DASHBOARD
 HR Analytics Dashboard in tableau
